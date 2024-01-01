@@ -1,3 +1,6 @@
+# WELCOME!
+## About Me
+
 - 👋 Hi, I’m Daniel Cao!
 I am a current Computer Science student at NC State University
 I have a passion for technology and creatively innovating. I dabble in a bit of Network Security and plan to expand my knowledge of Cybersecurity Topics.
