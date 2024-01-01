@@ -7,6 +7,8 @@ I have a passion for technology and creatively innovating. I dabble in a bit of 
 Currently, I am focusing on my education and trying to find internships, but on the side, I am trying to further my experience with my projects.
 All projects done in class and personally will now be uploaded on Github as I further improve my portfolio. 
 
+![github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)]
+
 <!---
 DCDanny03/DCDanny03 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
