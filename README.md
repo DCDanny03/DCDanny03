@@ -1,6 +1,3 @@
-# WELCOME! 
-## ⭐️ About Me ⭐️
-
 - 👋 Hi, I’m Daniel Cao!
 - 🎓 I am a current Computer Science student at NC State University
 - 👾 I have a passion for technology and creatively innovating. I dabble in a bit of Network Security and plan to expand my knowledge of Cybersecurity Topics.
@@ -19,7 +16,7 @@ All projects done in class and personally will now be uploaded on Github as I fu
 
 ###
 
-<h3 align="left">👩‍💻  About Me</h3>
+<h3 align="left">⭐️ About Me ⭐️</h3>
 
 ###
 
