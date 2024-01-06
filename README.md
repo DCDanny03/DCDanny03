@@ -11,12 +11,6 @@ All projects done in class and personally will now be uploaded on Github as I fu
 
 ###
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/daniel-cao-931722230/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" alt="LinkedIn" />
-  </a>
-</p>
-
 ###
 
 ###
@@ -48,13 +42,13 @@ All projects done in class and personally will now be uploaded on Github as I fu
 
 ###
 
-<h3 align="left">🔥   My Stats :</h3>
+<p align="center">
+  <a href="https://www.linkedin.com/in/daniel-cao-931722230/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" alt="LinkedIn" />
+  </a>
+</p>
 
 ###
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=dcdanny03&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
-</div>
 
 ###
 
