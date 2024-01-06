@@ -8,12 +8,10 @@
 
 ###
 
-<p align="left">- My name is Daniel Cao<br><br>- 📚 I currently study Computer Science at NC State University, Go WolfPack!<br>- 🔭 I am in search of an internship related to Software Development or Cybersecurity<br>- ⚡ In my free time I enjoy exploring new ways to create and innovate</p>
-
-- 🎓 I am a current Computer Science student at NC State University
-- 👾 I have a passion for technology and creatively innovating. I dabble in a bit of Network Security and plan to expand my knowledge of Cybersecurity Topics.
+<p align="left">- My name is Daniel Cao<br><br>- 📚 I currently study Computer Science at NC State University, Go WolfPack!<br>- 🔭 I am in search of an internship related to Software Development or Cybersecurity<br>- ⚡ In my free time I enjoy exploring new ways to create and innovate<br>- 🎓 I am a current Computer Science student at NC State University.<br>
+- 👾 I have a passion for technology and creatively innovating. I dabble in a bit of Network Security and plan to expand my knowledge of Cybersecurity Topics.<br>
 - 💸 Currently, I am focusing on my education and trying to find internships, but on the side, I am trying to further my experience with my projects.
-All projects done in class and personally will now be uploaded on Github as I further improve my portfolio.
+All projects done in class and personally will now be uploaded on Github as I further improve my portfolio.<br></p>
 
 ###
 
