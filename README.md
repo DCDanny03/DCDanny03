@@ -21,7 +21,7 @@ All projects done in class and personally will now be uploaded on Github as I fu
 
 ###
 
-<h1 align="center">hey there 👋</h1>
+<h1 align="center">Hello Internet Traveler!! 👋</h1>
 
 ###
 
