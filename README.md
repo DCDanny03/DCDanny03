@@ -14,6 +14,10 @@
 All projects done in class and personally will now be uploaded on Github as I further improve my portfolio.<br></p>
 
 ###
+Technical Skills
+###
+Relevant Course Work
+###
 
 <h3 align="left">🛠 Language and tools</h3>
 
