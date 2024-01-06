@@ -1,6 +1,6 @@
 ###
 
-<h1 align="center">Hello Internet Traveler!! 👋</h1>
+<h1 align="center">Hello World!! 👋</h1>
 
 ###
 
