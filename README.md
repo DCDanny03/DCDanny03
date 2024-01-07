@@ -18,9 +18,10 @@ All projects done in class and personally will now be uploaded on Github as I fu
 <p align="left">
 	- Object Oriented Programming, Devlopment Lifecycle, Debugging, Unit Testing, DSA, Problem Solving, Communication, Team/Pair Programming, Java, C, Assembly, Linux
 </p>
-###
-Relevant Course Work
-###
+
+
+<h2 align="left">Relevant Course Work  </h2>
+  
 
 <h3 align="left">🛠 Language and tools</h3>
 
