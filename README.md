@@ -16,7 +16,7 @@ All projects done in class and personally will now be uploaded on Github as I fu
 ###
 <h2 align="left"> Technical Skills </h2>
 <p align="left">
-	- Object Oriented Programming, Devlopment Lifecycle, Debugging, Unit Testing, DSA, Problem Solving, Communication, Team/Pair Programming, Java, C, Assembly, Linux
+	- Object Oriented Programming, Devlopment Lifecycle, Debugging, Unit Testing, DSA, Problem Solving, Communication, Team/Pair Programming, Java, C, Assembly, Linux, Best Security Practices, Network Security
 </p>
 
 
